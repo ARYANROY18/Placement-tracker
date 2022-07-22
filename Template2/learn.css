@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#section1{
+    background-image: url(/image/pf-608a0cae--Lifeline-24.webp);
+    height:650px
+}
+#section1 h1{
+    font-size: 90px;
+    color: white;
+    padding-top: 240px;
+    font-weight: bold;
+    font-family:popinsbold;
+}
+#section1 p{
+    font-size: 30px;
+    padding-bottom: 170px;
+    color: white;
+}
+#section-2{
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+.s2-icons{
+    padding-left:39%;
+    margin-top: 40px;
+}
+
+@media only screen and (max-width:990px) {
+    .s2-icons{
+        padding-left:39%;
+    }
+}
+#s3-img{
+    background-image: url(/image/pf-4d333a55--Lifeline-1.webp);
+    height: 450px;
+    background-repeat: no-repeat;
+
+}
+#s3-img1 h1{
+    color: blueviolet;
+    margin-left: 40px;
+    font-family: Coolfont;
+    font-weight: bold;
+    
+}
+#s3-img1 p{
+    margin-left: 40px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#s3-img1 button{
+    margin-top: 3%;
+    font-size: 1.5em;
+    padding: 2% 9%;
+    background-color: #27ae60;
+    font-weight: bold;
+    font-family: coolfont;
+    color: white;
+    border-radius: 40px;
+    transition: all 0.3s ease;
+    margin-left: 40px;
+}
+#s3-img1 button:hover{
+    background-color: yellowgreen;
+}
+
+#section-4{
+    background-image: url("https://cdn.shopify.com/s/files/1/2170/1117/t/10/assets/pf-e9c46f83--Linelife-45-Edited-Edited.jpg?v=1608804153");
+    margin-top: 130px;
+    padding: 140px;
+    background-size: cover;
+    
+}
+#section-4 h1{
+    color: white;
+    font-size: 70px;
+    padding-bottom: 20px;
+}
+#section-4 h3{
+    color: white;
+    
+}
+#section-5{
+   margin-top: 170px;
+}
+
+#section-5 h1{
+    font-size: 3em;
+    color: blueviolet;
+    font-weight: bold;
+    margin-bottom: 4%;
+}
+
+#img-5{
+    margin-top: 30px;
+}
+
+
+#section-5 h3{
+    color: blueviolet;
+}
+
+#section-5 p{
+    font-weight: bold;
+}
+
+#section-6{
+    background-image: url("https://cdn.shopify.com/s/files/1/2170/1117/t/10/assets/pf-0a82ceaa--lifeline-2.png?v=1603686637");
+    height: 500px;
+    margin-top: 120px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#section-6 h1{
+    color: white;
+    font-size: 50px;
+}
+
+.slider-img1{
+    align-items: center;
+
+}
+

@@ -1,0 +1,26 @@
+
+#banner-1{
+    background-image: url("https://cdn.shopify.com/s/files/1/2170/1117/t/10/assets/pf-608a0cae--Lifeline-24.png?v=1604478963");
+    padding: 13% 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 6%;
+}
+
+#banner-1 h1{
+    font-size: 5em;
+    color: white;
+    font-weight: bold;
+    font-family: popinsbold;
+}
+
+#banner-1 p{
+    color: white;
+    font-size: 1.5em;
+    font-family: popinslight;
+    padding: 0 2%;
+}
+.s2-icons{
+    padding-left:39%;
+}
